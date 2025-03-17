@@ -11,6 +11,7 @@ header{
     color: white;
     padding: 10px;
     text-align: center;
+
 }
 
 .adds{
@@ -18,4 +19,16 @@ header{
     top: 90px;
     right: 0;
     left: 0;
+}
+
+.initial{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.AnunI{
+
+    justify-self: center;
+
 }
