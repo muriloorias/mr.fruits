@@ -32,3 +32,9 @@ header{
     justify-self: center;
 
 }
+
+.buttoms{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
